@@ -44,5 +44,16 @@ projects with Claude Code and Codex.
       <br><br>
       <code>JavaScript</code> <code>Node.js</code> <code>SQLite</code>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hildlabs/led-panels">LED Panels</a></h3>
+      <a href="https://github.com/hildlabs/led-panels">
+        <img src="assets/led-panels-front.jpg" alt="A printed chevron panel lit from behind in purple and red">
+      </a>
+      3D-printed wall panels, each lit from behind by 16 WS2812B LEDs. ESP8266 firmware with ten
+      effects, a USB serial bridge because the Wi-Fi at the wall is too weak, and a React and
+      Three.js dashboard that previews every effect in 3D and has a keyframe editor.
+      <br><br>
+      <code>C++</code> <code>Python</code> <code>TypeScript</code>
+    </td>
   </tr>
 </table>
