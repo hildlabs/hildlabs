@@ -35,7 +35,7 @@ projects with Claude Code and Codex.
     <td width="50%" valign="top">
       <h3><a href="https://github.com/hildlabs/bluetenpfad">Blütenpfad</a></h3>
       <a href="https://github.com/hildlabs/bluetenpfad">
-        <img src="https://raw.githubusercontent.com/hildlabs/bluetenpfad/main/docs/screenshots/desktop-map.jpg" alt="The Blütenpfad map with collected plants">
+        <img src="assets/bluetenpfad-collection.jpg" alt="The Blütenpfad collection with discovered wildflowers">
       </a>
       A nature collecting app for Central Europe: photograph a plant, read its profile, fill your
       collection. Auth, EXIF photo upload, plant recognition, multiplayer and GDPR endpoints in one
