@@ -2,8 +2,8 @@
   <img src="assets/banner.svg" width="100%" alt="hildlabs: hardware, homelab and tools, built with Claude Code and Codex">
 </p>
 
-Hi, I'm Hannes, an IT systems electronics technician from Germany. In my free time I build hardware and software
-projects with Claude Code and Codex: from an Arduino that plays a Game Boy to tools other people actually use.
+Hi, I'm Hannes, an IT systems electronics engineer from Germany. In my free time I build hardware and software
+projects with Claude Code and Codex.
 
 ## Projects
 
