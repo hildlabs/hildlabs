@@ -47,7 +47,7 @@ projects with Claude Code and Codex.
     <td width="50%" valign="top">
       <h3><a href="https://github.com/hildlabs/led-panels">LED Panels</a></h3>
       <a href="https://github.com/hildlabs/led-panels">
-        <img src="assets/led-panels-front.jpg" alt="A printed chevron panel lit from behind in purple and red">
+        <img src="assets/led-panels-dashboard.jpg" alt="The LED panel dashboard with effect list, 3D preview and sliders">
       </a>
       3D-printed wall panels, each lit from behind by 16 WS2812B LEDs. ESP8266 firmware with ten
       effects, a USB serial bridge because the Wi-Fi at the wall is too weak, and a React and
