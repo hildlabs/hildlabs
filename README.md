@@ -5,11 +5,6 @@
 Hi, I'm Hannes, an IT systems electronics engineer from Germany. In my free time I build hardware and software
 projects with Claude Code and Codex.
 
-## Now
-
-- Polishing a multibox tool for Pokémon Gamma Emerald
-- Next build: a home NAS that AI manages, with automatic backups and file sorting (waiting on the hardware)
-
 ```
 ●──────┬────[ 330Ω ]────┬────>|────┬────────────────●
        ╰──────||────────╯          ╰──── projects
