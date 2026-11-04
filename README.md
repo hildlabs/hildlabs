@@ -68,5 +68,16 @@ projects with Claude Code and Codex.
       <br><br>
       <code>C++</code> <code>Python</code> <code>JavaScript</code>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hildlabs/gba-rig">GBA Shiny Hunting Rig</a></h3>
+      <a href="https://github.com/hildlabs/gba-rig">
+        <img src="assets/gba-rig.jpg" alt="Opened GBA SP mainboard wired to an Arduino UNO, with an LCD showing 171 soft resets">
+      </a>
+      An Arduino soft-resets a real GBA SP until the starter is shiny. It presses the buttons through
+      wires soldered to the mainboard, and an LDR on the screen times the battle text box: the shiny
+      sparkle animation makes it appear later.
+      <br><br>
+      <code>C++</code> <code>Arduino</code>
+    </td>
   </tr>
 </table>
