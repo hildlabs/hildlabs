@@ -31,6 +31,20 @@ projects with Claude Code and Codex.
       <code>JavaScript</code> <code>Luau</code>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hildlabs/bluetenpfad">Blütenpfad</a></h3>
+      <a href="https://github.com/hildlabs/bluetenpfad">
+        <img src="https://raw.githubusercontent.com/hildlabs/bluetenpfad/main/docs/screenshots/desktop-map.jpg" alt="The Blütenpfad map with collected plants">
+      </a>
+      A nature collecting app for Central Europe: photograph a plant, read its profile, fill your
+      collection. Auth, EXIF photo upload, plant recognition, multiplayer and GDPR endpoints in one
+      Node process with SQLite, no framework and no build step. Live at
+      <a href="https://bluetenpfad.de">bluetenpfad.de</a>.
+      <br><br>
+      <code>JavaScript</code> <code>Node.js</code> <code>SQLite</code>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
