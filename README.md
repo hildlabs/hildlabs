@@ -2,24 +2,13 @@
   <img src="assets/banner.svg" width="100%" alt="hildlabs: hardware, homelab and tools, built with Claude Code and Codex">
 </p>
 
-Hi, I'm Hannes, an IT systems electronics engineer from Germany. In my free time I build hardware and software
-projects with Claude Code and Codex.
+Hi, I'm Hannes from Germany, an IT systems electronics engineer focused on AI-assisted development, automation,
+infrastructure and hardware.
 
 ## Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/hildlabs/horizon-shaders">Daybreak</a></h3>
-      <a href="https://github.com/hildlabs/horizon-shaders">
-        <img src="assets/daybreak.gif" alt="A lake by day with the Daybreak shader pack: reflections, waving water and sun rays">
-      </a>
-      A shader pack for <a href="https://github.com/horizon-rust/horizon">Horizon</a>, the Rust
-      reimplementation of Minecraft. Sun shadows, reflective water, waving plants, sun rays and
-      bloom, in four quality presets.
-      <br><br>
-      <code>WGSL</code> <code>Rust</code>
-    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/hildlabs/openrig-studio">OpenRig Studio</a></h3>
       <a href="https://github.com/hildlabs/openrig-studio">
@@ -30,8 +19,6 @@ projects with Claude Code and Codex.
       <br><br>
       <code>JavaScript</code> <code>Luau</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/hildlabs/bluetenpfad">Blütenpfad</a></h3>
       <a href="https://github.com/hildlabs/bluetenpfad">
@@ -44,6 +31,8 @@ projects with Claude Code and Codex.
       <br><br>
       <code>JavaScript</code> <code>Node.js</code> <code>SQLite</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/hildlabs/led-panels">LED Panels</a></h3>
       <a href="https://github.com/hildlabs/led-panels">
@@ -54,6 +43,17 @@ projects with Claude Code and Codex.
       Three.js dashboard that previews every effect in 3D and has a keyframe editor.
       <br><br>
       <code>C++</code> <code>Python</code> <code>TypeScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hildlabs/horizon-shaders">Daybreak</a></h3>
+      <a href="https://github.com/hildlabs/horizon-shaders">
+        <img src="assets/daybreak.gif" alt="A lake by day with the Daybreak shader pack: reflections, waving water and sun rays">
+      </a>
+      A shader pack for <a href="https://github.com/horizon-rust/horizon">Horizon</a>, the Rust
+      reimplementation of Minecraft. Sun shadows, reflective water, waving plants, sun rays and
+      bloom, in four quality presets.
+      <br><br>
+      <code>WGSL</code> <code>Rust</code>
     </td>
   </tr>
   <tr>
