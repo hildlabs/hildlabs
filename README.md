@@ -56,4 +56,17 @@ projects with Claude Code and Codex.
       <code>C++</code> <code>Python</code> <code>TypeScript</code>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hildlabs/stepper-music">Stepper Music</a></h3>
+      <a href="https://github.com/hildlabs/stepper-music">
+        <img src="assets/stepper-music-dashboard.jpg" alt="The Stepper Music dashboard playing a four-voice tune as a piano roll">
+      </a>
+      Four NEMA17 stepper motors on an Arduino play four-part music. A dashboard turns MIDI files
+      into four voices, flashes the UNO over a USB bridge and syncs the LED panels to every note.
+      Recordings on <a href="https://www.youtube.com/@steppersounds/videos">YouTube</a>.
+      <br><br>
+      <code>C++</code> <code>Python</code> <code>JavaScript</code>
+    </td>
+  </tr>
 </table>
