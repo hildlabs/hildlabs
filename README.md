@@ -46,11 +46,3 @@ projects with Claude Code and Codex.
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hildlabs/hildlabs/output/snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hildlabs/hildlabs/output/snake-light.svg">
-    <img src="https://raw.githubusercontent.com/hildlabs/hildlabs/output/snake.svg" alt="A snake eating this year's contribution graph">
-  </picture>
-</p>
