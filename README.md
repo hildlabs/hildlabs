@@ -5,11 +5,6 @@
 Hi, I'm Hannes, an IT systems electronics engineer from Germany. In my free time I build hardware and software
 projects with Claude Code and Codex.
 
-```
-●──────┬────[ 330Ω ]────┬────>|────┬────────────────●
-       ╰──────||────────╯          ╰──── projects
-```
-
 ## Projects
 
 <table>
