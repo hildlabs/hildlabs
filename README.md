@@ -12,7 +12,7 @@ projects with Claude Code and Codex.
     <td width="50%" valign="top">
       <h3><a href="https://github.com/hildlabs/horizon-shaders">Daybreak</a></h3>
       <a href="https://github.com/hildlabs/horizon-shaders">
-        <img src="https://raw.githubusercontent.com/hildlabs/horizon-shaders/main/docs/screenshots/day.jpg" alt="A lake by day with the Daybreak shader pack: reflections and sun rays">
+        <img src="assets/daybreak.gif" alt="The same lake by day and by night with the Daybreak shader pack: reflections, sun rays and moonlight on the water">
       </a>
       A shader pack for <a href="https://github.com/horizon-rust/horizon">Horizon</a>, the Rust
       reimplementation of Minecraft. Sun shadows, reflective water, waving plants, sun rays and
