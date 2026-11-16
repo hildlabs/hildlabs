@@ -53,7 +53,7 @@ infrastructure and hardware.
       reimplementation of Minecraft. Sun shadows, reflective water, waving plants, sun rays and
       bloom, in four quality presets.
       <br><br>
-      <code>WGSL</code> <code>Rust</code>
+      <code>WGSL</code> <code>Rust</code> <!-- daybreak-downloads --><code>57k+ downloads</code><!-- /daybreak-downloads -->
     </td>
   </tr>
   <tr>

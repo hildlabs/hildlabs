@@ -1,0 +1,25 @@
+# Keeps the Daybreak download count in the profile README current.
+# Commits only when the shown number changes (in steps of 1k).
+name: downloads
+on:
+  schedule:
+    - cron: "41 5 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: downloads
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/update_downloads.py
+      - name: Commit if changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update Daybreak download count"
+          git push
