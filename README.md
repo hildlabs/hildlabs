@@ -46,7 +46,7 @@ Photograph a wild plant, read its profile, fill your collection. Plant recogniti
 
 <hr>
 
-<a href="https://github.com/hildlabs/led-panels"><img src="assets/covers/led-panels.jpg" width="100%" alt="The LED panel dashboard with effect list, 3D preview and sliders"></a>
+<a href="https://github.com/hildlabs/led-panels"><img src="assets/covers/led-panels.gif" width="100%" alt="The LED panel dashboard with effect list, 3D preview and sliders"></a>
 
 <h3><a href="https://github.com/hildlabs/led-panels">LED Panels</a> <sub><sup>HARDWARE</sup></sub></h3>
 
@@ -58,7 +58,7 @@ Photograph a wild plant, read its profile, fill your collection. Plant recogniti
 
 <hr>
 
-<a href="https://github.com/hildlabs/stepper-music"><img src="assets/covers/stepper-music.jpg" width="100%" alt="Four stepper motors with 3D-printed planetary gearboxes in front of the LED panels"></a>
+<a href="https://github.com/hildlabs/stepper-music"><img src="assets/covers/stepper-music.gif" width="100%" alt="Four stepper motors with 3D-printed planetary gearboxes in front of the LED panels"></a>
 
 <h3><a href="https://github.com/hildlabs/stepper-music">Stepper Music</a> <sub><sup>HARDWARE</sup></sub></h3>
 
