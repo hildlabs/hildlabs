@@ -1,4 +1,4 @@
-# Keeps the Daybreak download count in the profile README current.
+# Keeps the Daybreak download pill in the profile README current.
 # Commits only when the shown number changes (in steps of 1k).
 name: downloads
 on:
@@ -18,8 +18,8 @@ jobs:
       - run: python3 scripts/update_downloads.py
       - name: Commit if changed
         run: |
-          git diff --quiet README.md && exit 0
+          git diff --quiet assets/chips/daybreak-downloads.svg && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Update Daybreak download count"
+          git commit -m "Update Daybreak download count" assets/chips/daybreak-downloads.svg
           git push
