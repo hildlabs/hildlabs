@@ -20,7 +20,7 @@ Sun shadows, reflective water, waving plants, sun rays and bloom for <a href="ht
 
 <a href="https://playhorizon.dev/mods/daybreak"><img src="assets/chips/btn-get.svg" alt="Get it on Horizon" height="30"></a> <a href="https://github.com/hildlabs/horizon-shaders"><img src="assets/chips/btn-code.svg" alt="Code" height="30"></a>
 
-<br>
+<hr>
 
 <a href="https://github.com/hildlabs/openrig-studio"><img src="assets/covers/openrig.gif" width="100%" alt="A backflip generated in the OpenRig Studio editor"></a>
 
@@ -32,7 +32,7 @@ Describe a move, get a Roblox R15 or R6 animation. Runs on Claude Code, the Code
 
 <a href="https://hildlabs.github.io/openrig-studio/"><img src="assets/chips/btn-demo.svg" alt="Try the demo" height="30"></a> <a href="https://github.com/hildlabs/openrig-studio"><img src="assets/chips/btn-code.svg" alt="Code" height="30"></a>
 
-<br>
+<hr>
 
 <a href="https://github.com/hildlabs/bluetenpfad"><img src="assets/covers/bluetenpfad.jpg" width="100%" alt="My Blütenpfad collection with photographed wildflowers"></a>
 
@@ -44,7 +44,7 @@ Photograph a wild plant, read its profile, fill your collection. Plant recogniti
 
 <a href="https://bluetenpfad.de"><img src="assets/chips/btn-live.svg" alt="Open the app" height="30"></a> <a href="https://github.com/hildlabs/bluetenpfad"><img src="assets/chips/btn-code.svg" alt="Code" height="30"></a>
 
-<br>
+<hr>
 
 <a href="https://github.com/hildlabs/led-panels"><img src="assets/covers/led-panels.jpg" width="100%" alt="The LED panel dashboard with effect list, 3D preview and sliders"></a>
 
@@ -56,7 +56,7 @@ Photograph a wild plant, read its profile, fill your collection. Plant recogniti
 
 <a href="https://hildlabs.github.io/led-panels/"><img src="assets/chips/btn-demo.svg" alt="Try the demo" height="30"></a> <a href="https://github.com/hildlabs/led-panels"><img src="assets/chips/btn-code.svg" alt="Code" height="30"></a>
 
-<br>
+<hr>
 
 <a href="https://github.com/hildlabs/stepper-music"><img src="assets/covers/stepper-music.jpg" width="100%" alt="Four stepper motors with 3D-printed planetary gearboxes in front of the LED panels"></a>
 
@@ -68,7 +68,7 @@ Four NEMA17 stepper motors on an Arduino play four-part music. A dashboard split
 
 <a href="https://www.youtube.com/@steppersounds/videos"><img src="assets/chips/btn-video.svg" alt="Watch it play" height="30"></a> <a href="https://github.com/hildlabs/stepper-music"><img src="assets/chips/btn-code.svg" alt="Code" height="30"></a>
 
-<br>
+<hr>
 
 <a href="https://github.com/hildlabs/gba-rig"><img src="assets/covers/gba-rig.jpg" width="100%" alt="Opened GBA SP mainboard wired to an Arduino UNO, with an LCD showing 171 soft resets"></a>
 
@@ -79,5 +79,3 @@ An Arduino soft-resets a real GBA SP until the starter is shiny, pressing button
 <img src="assets/chips/cpp.svg" alt="C++" height="24"> <img src="assets/chips/arduino.svg" alt="Arduino" height="24">
 
 <a href="https://github.com/hildlabs/gba-rig"><img src="assets/chips/btn-code.svg" alt="Code" height="30"></a>
-
-<br>
