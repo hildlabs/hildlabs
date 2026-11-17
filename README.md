@@ -45,7 +45,7 @@ Photograph a wild plant, read its profile, fill your collection. One Node proces
 
 <hr>
 
-<a href="https://github.com/hildlabs/stepper-music"><img src="assets/covers/stepper-music.jpg" width="100%" alt="Four stepper motors with 3D-printed planetary gearboxes in front of the LED panels"></a>
+<a href="https://github.com/hildlabs/stepper-music"><img src="assets/covers/stepper-music.gif" width="100%" alt="Four stepper motors with 3D-printed planetary gearboxes in front of the LED panels"></a>
 
 Four stepper motors on an Arduino play four-part music, with the LED panels synced to every note.
 
