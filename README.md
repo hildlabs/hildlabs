@@ -8,7 +8,7 @@ infrastructure and hardware.
 ## Projects
 
 
-<a href="https://github.com/hildlabs/SoulSync"><img src="assets/covers/soulsync.jpg" width="100%" alt="The SoulSync dashboard in dark mode: two players' linked Pokémon side by side, with badges and level cap"></a>
+<a href="https://github.com/hildlabs/SoulSync"><img src="assets/covers/soulsync.jpg" width="100%" alt="The SoulSync dashboard in a wild battle: both players' catch chances live, next to their linked Pokémon"></a>
 
 <h3><a href="https://github.com/hildlabs/SoulSync">SoulSync</a> <sub><sup>DESKTOP APP</sup></sub></h3>
 
