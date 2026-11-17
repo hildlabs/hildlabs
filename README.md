@@ -2,6 +2,8 @@
   <img src="assets/banner.svg" width="100%" alt="hildlabs: IT systems electronics engineer from Germany. Hardware, homelab and tools, built with Claude Code and Codex">
 </p>
 
+<hr>
+
 <a href="https://github.com/hildlabs/SoulSync"><img src="assets/covers/soulsync.gif" width="100%" alt="SoulSync: a catch in DeSmuME shows up for the partner, both players' catch chance in a wild battle, a lost link, and a new randomized attempt in one click"></a>
 
 Live tracker for Pokémon Soul Link and Nuzlocke runs, straight from the emulator. A Lua script in DeSmuME reads the game, a Rust desktop app syncs every catch and faint to up to four players over WebSocket, and a byte-exact Rust port of a DS ROM randomizer is built in.
