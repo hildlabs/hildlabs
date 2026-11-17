@@ -8,6 +8,18 @@ infrastructure and hardware.
 ## Projects
 
 
+<a href="https://github.com/hildlabs/SoulSync"><img src="assets/covers/soulsync.jpg" width="100%" alt="The SoulSync dashboard in dark mode: two players' linked Pokémon side by side, with badges and level cap"></a>
+
+<h3><a href="https://github.com/hildlabs/SoulSync">SoulSync</a> <sub><sup>DESKTOP APP</sup></sub></h3>
+
+Live tracker for Pokémon Soul Link and Nuzlocke runs, straight from the emulator. A Lua script in DeSmuME reads the game, a Rust desktop app syncs every catch and faint to up to four players over WebSocket, and a byte-exact Rust port of a DS ROM randomizer is built in.
+
+<img src="assets/chips/rust.svg" alt="Rust" height="24"> <img src="assets/chips/websocket.svg" alt="WebSocket" height="24"> <img src="assets/chips/lua.svg" alt="Lua" height="24">
+
+<a href="https://github.com/hildlabs/SoulSync/releases/latest"><img src="assets/chips/btn-download.svg" alt="Download for Windows" height="30"></a> <a href="https://github.com/hildlabs/SoulSync"><img src="assets/chips/btn-code.svg" alt="Code" height="30"></a>
+
+<hr>
+
 <a href="https://github.com/hildlabs/horizon-shaders"><img src="assets/covers/daybreak.gif" width="100%" alt="A lake by day with the Daybreak shader pack: reflections, waving water and sun rays"></a>
 
 <h3><a href="https://github.com/hildlabs/horizon-shaders">Daybreak</a> <sub><sup>SHADER PACK</sup></sub></h3>
