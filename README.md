@@ -24,7 +24,7 @@ Live tracker for Pokémon Soul Link and Nuzlocke runs, straight from the emulato
 
 <h3><a href="https://github.com/hildlabs/horizon-shaders">Daybreak</a> <sub><sup>SHADER PACK</sup></sub></h3>
 
-<a href="https://playhorizon.dev/mods/daybreak"><img src="assets/chips/daybreak-downloads.svg" alt="59k+ downloads on Horizon" height="34"></a>
+<a href="https://playhorizon.dev/mods/daybreak"><img src="assets/chips/daybreak-downloads.svg" alt="60k+ downloads on Horizon" height="34"></a>
 
 Sun shadows, reflective water, waving plants, sun rays and bloom for <a href="https://github.com/horizon-rust/horizon">Horizon</a>, the Rust reimplementation of Minecraft. Four quality presets.
 
