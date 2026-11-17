@@ -11,6 +11,7 @@ light colours switch with prefers-color-scheme inside the SVG.
 """
 import json
 import os
+import re
 import sys
 import urllib.request
 
@@ -18,6 +19,7 @@ INDEX_URL = "https://horizon-rust.github.io/horizon-mods/index.json"
 PROJECT_ID = "daybreak"
 HERE = os.path.dirname(os.path.abspath(__file__))
 SVG = os.path.join(HERE, "..", "assets", "chips", "daybreak-downloads.svg")
+README = os.path.join(HERE, "..", "README.md")
 DATA = os.path.join(HERE, "downloads-chip.json")
 
 # Layout in px: pill height, text size, paddings. The extra 6 px below the
@@ -79,6 +81,16 @@ def main() -> int:
     if svg != old:
         with open(SVG, "w", encoding="utf-8") as f:
             f.write(svg)
+    # Keep the alt text of the pill in the README in step with the image.
+    readme = open(README, encoding="utf-8").read()
+    new = re.sub(
+        r'(src="assets/chips/daybreak-downloads\.svg" alt=")[^"]*(")',
+        lambda m: f"{m.group(1)}{shown} downloads on Horizon{m.group(2)}",
+        readme,
+    )
+    if new != readme:
+        with open(README, "w", encoding="utf-8") as f:
+            f.write(new)
     print(f"{PROJECT_ID}: {project['downloads']} -> {shown}")
     return 0
 
